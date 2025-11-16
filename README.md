@@ -15,7 +15,7 @@ Feild of study that builds & developes **digital brains** simulating the biologi
 **Prefrontal Cortex:** The Building of hierarchical **meta-reason** (Behavioural, long term risk assessment, compulsory, decision center, planning & prediction)
  
 
-Intelligence = Hierarchical Processing
+Intelligence = Hierarchical Processing = Decomposable Chain-Composition Of Input Vectors Transformation In The Hyper-Dim Space
 
 Context = Meta-Level Awareness  = Abstraction 
 
