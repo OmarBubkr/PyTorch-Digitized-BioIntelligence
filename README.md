@@ -24,6 +24,7 @@ Feild of study that builds & developes **digital brains** simulating the biologi
 • Feature Hierarchy Formation
 • Latent Manifold Structuring 
 • Relational Inductive Biases
+• Adaptive Meta-Modulation Loops 
 • Meta-Cognitive 
 • Modular
 • Efficient 
