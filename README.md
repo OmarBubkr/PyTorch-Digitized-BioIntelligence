@@ -19,7 +19,7 @@ Feild of study that builds & developes **digital brains** simulating the biologi
 • Multi-Cortical Systems 
 • Multi-Density Neuronal Connectivity 
 • Long-Short-Term Neuronal Connections (Cross-Cortical-Hemispheric)
-• Interconnected Shared-Cross-Referenced Reaosning 
+• Interconnected Shared-Cross-Referenced Reasoning 
 • Decomposable Chain Of Vecto Transformation 
 • Feature Hierarchy Formation
 • Latent Manifold Structuring 
