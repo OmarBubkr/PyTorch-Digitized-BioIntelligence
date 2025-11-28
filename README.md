@@ -15,6 +15,7 @@ Feild of study that builds & developes **digital brains** simulating the biologi
 **Prefrontal Cortex:** The Building of hierarchical **meta-reason** (Behavioural, long term risk assessment, compulsory, decision center, planning & prediction)
  
 **Intelligence:** 
+
 • Multi-Cortical Systems 
 • Multi-Density Neuronal Connectivity 
 • Long-Short-Term Neuronal Connections (Cross-Cortex-Hemisphere)
