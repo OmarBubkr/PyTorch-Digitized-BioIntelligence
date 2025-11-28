@@ -20,6 +20,7 @@ Feild of study that builds & developes **digital brains** simulating the biologi
 • Multi-Density Neuronal Connectivity 
 • Long-Short-Term Neuronal Connections (Cross-Cortex-Hemisphere)
 • Interconnected Shared-Cross-Referenced Reaosning 
+• Decomposable Chain Of Vecto Transformation 
 • Feature Hierarchy Formation
 • Latent Manifold Structuring 
 • Relational Inductive Biases
@@ -27,8 +28,6 @@ Feild of study that builds & developes **digital brains** simulating the biologi
 • Modular
 • Efficient 
 
-
-Intelligence = Hierarchical Processing = Decomposable Chain-Composition Of Input Vectors Transformation In The Hyper-Dim Space
 
 Context = Meta-Level Awareness  = Abstraction 
 
