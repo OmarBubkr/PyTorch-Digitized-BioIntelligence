@@ -17,7 +17,7 @@ Feild of study that builds & developes **digital brains** simulating the biologi
 **Intelligence:** 
 
 • Multi-Cortical Systems 
-• Multi-Density Neuronal Connectivity 
+• Multi-Density Neuronal Functional Activity  
 • Long-Short-Term Neuronal Connections (Cross-Cortical-Hemispheric)
 • Interconnected Shared-Cross-Referenced Reasoning 
 • Decomposable Chain Of Vector Transformations
